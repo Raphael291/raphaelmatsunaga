@@ -25,3 +25,14 @@ body {
     display: flex;
     justify-content: space-around;
 }
+
+.links {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    margin: 12px;
+    padding: 12px;
+    
+}
